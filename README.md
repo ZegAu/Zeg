@@ -14,9 +14,9 @@ Why this repo
 
 Status & support
 - Production AI endpoint: https://evolve.zeg.com.au
-- Support: support@zeg.com.au
+- Support: hello@zeg.com.au
 - Security reports: security@zeg.com.au — see .github/SECURITY.md
-- SLA & enterprise: https://zeg.com.au/contact
+- SLA & enterprise: https://zeg.com.au
 
 Releases & changelog
 - Releases follow semantic versioning and are published under the Releases tab. See release notes for migration and changelog details.
